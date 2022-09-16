@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test snippets and stocks",
+      "setup": "",
+      "run": "python -m unittest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
