@@ -54,6 +54,3 @@ def stock_purchases():
     print(
         f"{client_name} has ${invtmnt} to invest and can buy {affordable} shares of {service} at the current price of {currentPrice}."
     )
-
-
-stock_purchases()
